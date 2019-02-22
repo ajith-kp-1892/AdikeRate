@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "761788715369",
+    "firebase_url": "https://ajapplication-5c749.firebaseio.com",
+    "project_id": "ajapplication-5c749",
+    "storage_bucket": "ajapplication-5c749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761788715369:android:4ce27f681eebfad8",
+        "android_client_info": {
+          "package_name": "com.ajithkp.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761788715369-j4ufnu4k1d6et7qa5q35qbsncv1db9h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjnXV9C5HuWInFC24VEXABuXB7XNh9MkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
